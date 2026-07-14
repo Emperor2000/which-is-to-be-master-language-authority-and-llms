@@ -6,7 +6,7 @@ Programming languages derive their authority from formally specified semantics. 
 
 A prompt may describe a boundary. It cannot enforce one.
 
-[Read the full article](./Which-Is-to-Be-Master.pdf)
+[Read the full article](./which-is-to-be-master-language-authority-llms.pdf)
 
 ---
 
